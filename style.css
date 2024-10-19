@@ -72,7 +72,7 @@ html, body {
 }
 
 .popup h1 {
-  margin-bottom: .3em;
+  margin-bottom: .1em;
   font-size:75px;
   font-family: 'Brush Script MT', cursive;
   transition: transform 0.3s ease-in-out;
@@ -92,7 +92,7 @@ html, body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  width:95%;
+  width:90%;
   color:black;
 }
 
